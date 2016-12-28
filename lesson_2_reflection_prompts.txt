@@ -25,6 +25,8 @@ version.  You can create a version to test on, and the master branch can be the 
 
 How do the diagrams help you visualize the branch structure?
 
+The diagrams help you see what changes were made since you started another branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
