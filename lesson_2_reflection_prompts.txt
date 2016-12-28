@@ -20,6 +20,9 @@ directory and the stanging area.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches would be good to use if you want to make changes while keeping a working version working
+version.  You can create a version to test on, and the master branch can be the working version.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
