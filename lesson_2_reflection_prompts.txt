@@ -35,3 +35,5 @@ You can always go back and see what changes were made to a branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Maually merging branches let's the user decide when they want to merge branches.
