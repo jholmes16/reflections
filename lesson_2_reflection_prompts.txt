@@ -30,5 +30,8 @@ The diagrams help you see what changes were made since you started another branc
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is the new code becomes part of the old code.
+You can always go back and see what changes were made to a branch.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
