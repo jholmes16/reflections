@@ -25,7 +25,7 @@ Branches should be used to make edits to code.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+The benefit is that you have local copy of the up-to-date code.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
