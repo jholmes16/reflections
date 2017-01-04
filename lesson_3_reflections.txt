@@ -30,7 +30,10 @@ The benefit is that you have local copy of the up-to-date code.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would edit the code and store the changes on a usb drive, or server and give
+the usb drive or directory on the server to my collaborators.
+It would be harder, because you would have to make sure everything is in order,
+and if it breaks it my be hard to find the error.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
